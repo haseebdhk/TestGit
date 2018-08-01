@@ -1,1 +1,1 @@
-asp.net, c#, javaScript, SQL, jSon, jQuery
+asp.net, c#, javaScript, SQL, jSon, jQuery, AngularJS, Bootstrap
